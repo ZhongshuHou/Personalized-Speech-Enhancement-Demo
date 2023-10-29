@@ -6,3 +6,5 @@ https://github.com/ZhongshuHou/Personalized-Speech-Enhancement-Demo/assets/10324
 
 https://github.com/ZhongshuHou/Personalized-Speech-Enhancement-Demo/assets/103247057/b188348e-681a-4c6e-a6e9-0ca5ad236da5
 
+https://github.com/ZhongshuHou/Personalized-Speech-Enhancement-Demo/assets/103247057/33b37729-69a8-4025-980d-83573888d868
+
